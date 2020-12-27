@@ -1,0 +1,13 @@
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.exe
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.deps.json
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.runtimeconfig.json
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.dll
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\bin\Debug\netcoreapp3.1\esepciones.Consola.pdb
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.AssemblyInfo.cs
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.dll
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.pdb
+C:\Users\Personal\Desktop\consolas\esepciones\esepciones.Consola\obj\Debug\netcoreapp3.1\esepciones.Consola.genruntimeconfig.cache
